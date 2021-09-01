@@ -1,0 +1,2 @@
+# xmr
+GPU monero
