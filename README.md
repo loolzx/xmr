@@ -1,2 +1,2 @@
 # xmr
-GPU monero
+cpu moneroocean
